@@ -16,16 +16,16 @@
 </div>
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center"> Languages & Frameworks </h2>
+</div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,java,html,vscode,github,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,r,java,html,vscode,github,mysql,postgresql" />
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kuoant&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
