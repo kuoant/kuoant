@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0e9828c1-b91d-4fcc-b1d2-28b7cad4f915" style="width: 100%; max-width: 100%;" />
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F77122&center=true&vCenter=true&width=500&height=70&lines=Welcome!;I+am+Fabian+Kuonen!;" />
