@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e9828c1-b91d-4fcc-b1d2-28b7cad4f915" style="width: 100%; max-width: 100%;" />
+  <img src="https://github.com/user-attachments/assets/6325d38b-b707-4b83-99e2-fab6c34a5a78" style="width: 100%; max-width: 100%;" />
 </p>
+
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
