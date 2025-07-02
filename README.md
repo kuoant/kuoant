@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e9828c1-b91d-4fcc-b1d2-28b7cad4f915" style="width: 100%; max-width: 100%;" />
+</p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
 <h1 align="center">
@@ -34,12 +38,22 @@
 
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img
+      width="390"
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kuoant&count_private=true&theme=react&border_radius=10"
+      alt="GitHub Streak"
+    />
+    <img
+      width="325"
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kuoant&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+      alt="Top Languages"
+    />
+  </div>
+</div>
 
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kuoant&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kuoant&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</p>
+
 
 <hr/>
