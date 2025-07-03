@@ -24,7 +24,7 @@
   <a href="mailto:fabian.kuonen__at__outlook.com">
     <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
   </a>
-  <a href="sites.google.com/view/fkuonen" target="_blank">
+  <a href="https://sites.google.com/view/fkuonen" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Site-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </p>
