@@ -11,7 +11,7 @@
 
 <p align="center">
   🎓 Data Science & Computational Economics student in Basel <br/>
-  🧠 Passionate about Machine Learning, Graphs & Optimization <br/>
+  🧠 Passionate about Machine Learning, Econometrics & Optimization <br/>
   🌍 Explorer of structured + unstructured data for real-world impact <br/>
   💬 Always open to collaboration and learning new things!
 </p>
