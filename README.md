@@ -2,6 +2,7 @@
   <img src="<img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/7ed9a059-2a8f-4cc7-8419-07fe9fa02678" />
 " />
 </p>
+![decision-ai-hero-banner-desktop](https://github.com/user-attachments/assets/3220d3a9-4e5c-452b-8890-c6ba31ad1cf0)
 
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
