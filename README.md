@@ -5,9 +5,9 @@
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
-<h1 align="center">
+<h2 align="center">
   📖 About Me
-</h1>
+</h2>
 
 <p align="center"> 
   🎓 Data Science Student in Basel <br/> 
