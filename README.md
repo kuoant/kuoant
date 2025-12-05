@@ -10,10 +10,10 @@
 </h1>
 
 <p align="center">
-  🎓 Data science student in Basel <br/>
-  🧠 Passionate about Machine Learning, Business Intelligence & Data Engineering <br/>
-  🌍 Explorer of structured + unstructured data for real-world impact <br/>
-  💬 Always open to collaboration and learning new things!
+  - 🎓 Data Science student in Basel <br/>
+  - 🧠 Passionate about Machine Learning, Business Intelligence & Data Engineering <br/>
+  - 🌍 Explorer of structured + unstructured data for real-world impact <br/>
+  - 💬 Always open to collaboration and learning new things!
 </p>
 
 <hr/>
