@@ -9,12 +9,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F77122&center=true&vCenter=true&width=500&height=70&lines=Welcome!;I+am+Fabian+Kuonen!;" />
 </h1>
 
-<ul>
-  <li>🎓 Data Science student in Basel</li>
-  <li>🧠 Passionate about Machine Learning, Business Intelligence & Data Engineering</li>
-  <li>🌍 Working with structured & unstructured data to create real-world impact</li>
-  <li>💬 Always open to collaboration and learning something new</li>
-</ul>
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left; padding-left: 20px;">
+    <li>🎓 Data Science student in Basel</li>
+    <li>🧠 Passionate about Machine Learning, Business Intelligence & Data Engineering</li>
+    <li>🌍 Working with structured & unstructured data to create real-world impact</li>
+    <li>💬 Always open to collaboration and learning something new</li>
+  </ul>
+</div>
+
 
 
 <hr/>
