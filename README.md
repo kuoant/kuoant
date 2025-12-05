@@ -6,14 +6,14 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F77122&center=true&vCenter=true&width=500&height=70&lines=Welcome!;I+am+Fabian+Kuonen!;" />
+  📖 About Me
 </h1>
 
 <p align="center"> 
-  🎓 Data Science student in Basel <br/> 
+  🎓 Data Science Student in Basel <br/> 
   💾 Passionate about Machine Learning, Business Intelligence & Data Engineering <br/> 
-  🌍 Explorer of structured + unstructured data for real-world impact <br/> 
-  💬 Always open to collaboration and learning new things! 
+  🌍 Explorer of Structured & Unstructured Data for Real-World Impact <br/> 
+  💬 Always Open to Collaboration and Learning New Things! 
 </p>
 <hr/>
 
